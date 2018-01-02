@@ -1,0 +1,11 @@
+$color1: #eee;
+$color2: #aaa;
+
+body {
+    background-color: $color1;
+}
+
+.done-true {
+    color: $color2;
+    text-decoration: line-through;
+}
